@@ -1,0 +1,22 @@
+NAME
+    Task::Data::Unixish - Install all Data::Unixish modules
+
+VERSION
+    version 0.01
+
+DESCRIPTION
+    This task will install all Data::Unixish modules.
+
+TASK CONTENTS
+  Included modules
+   Data::Unixish
+   Data::Unixish::Implementation
+AUTHOR
+    Steven Haryanto <stevenharyanto@gmail.com>
+
+COPYRIGHT AND LICENSE
+    This software is copyright (c) 2012 by Steven Haryanto.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
+
