@@ -17,14 +17,14 @@ my %module_build_args = (
     "Steven Haryanto <stevenharyanto\@gmail.com>"
   ],
   "dist_name" => "Task-Data-Unixish",
-  "dist_version" => "0.01",
+  "dist_version" => "0.02",
   "license" => "perl",
   "module_name" => "Task::Data::Unixish",
   "recommends" => {},
   "recursive_test_files" => 1,
   "requires" => {
     "Data::Unixish" => 0,
-    "Data::Unixish::Implementation" => 0
+    "Unixish" => 0
   },
   "script_files" => []
 );

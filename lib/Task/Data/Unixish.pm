@@ -1,6 +1,6 @@
 package Task::Data::Unixish;
 
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 1;
 # ABSTRACT: Install all Data::Unixish modules
@@ -15,7 +15,7 @@ Task::Data::Unixish - Install all Data::Unixish modules
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 
@@ -27,7 +27,7 @@ This task will install all Data::Unixish modules.
 
 =head3 L<Data::Unixish>
 
-=head3 L<Data::Unixish::Implementation>
+=head3 L<Unixish>
 
 =head1 AUTHOR
 

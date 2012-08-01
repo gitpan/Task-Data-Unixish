@@ -2,7 +2,7 @@ NAME
     Task::Data::Unixish - Install all Data::Unixish modules
 
 VERSION
-    version 0.01
+    version 0.02
 
 DESCRIPTION
     This task will install all Data::Unixish modules.
@@ -10,7 +10,7 @@ DESCRIPTION
 TASK CONTENTS
   Included modules
    Data::Unixish
-   Data::Unixish::Implementation
+   Unixish
 AUTHOR
     Steven Haryanto <stevenharyanto@gmail.com>
 
