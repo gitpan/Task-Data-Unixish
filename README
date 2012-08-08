@@ -2,13 +2,14 @@ NAME
     Task::Data::Unixish - Install all Data::Unixish modules
 
 VERSION
-    version 0.02
+    version 0.03
 
 DESCRIPTION
     This task will install all Data::Unixish modules.
 
 TASK CONTENTS
   Included modules
+   App::dux
    Data::Unixish
    Unixish
 AUTHOR

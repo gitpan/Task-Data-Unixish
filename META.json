@@ -26,6 +26,7 @@
       },
       "runtime" : {
          "requires" : {
+            "App::dux" : 0,
             "Data::Unixish" : 0,
             "Unixish" : 0
          }
@@ -38,6 +39,6 @@
          "url" : "http://github.com/sharyanto/perl-Task-Data-Unixish"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }
 

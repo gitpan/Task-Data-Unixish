@@ -14,9 +14,10 @@ meta-spec:
   version: 1.4
 name: Task-Data-Unixish
 requires:
+  App::dux: 0
   Data::Unixish: 0
   Unixish: 0
 resources:
   homepage: http://search.cpan.org/dist/Task-Data-Unixish/
   repository: http://github.com/sharyanto/perl-Task-Data-Unixish
-version: 0.02
+version: 0.03
